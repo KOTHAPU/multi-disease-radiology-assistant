@@ -1,1 +1,29 @@
+# Model weights — too large for GitHub
+*.pth
+*.pt
+*.pkl
+*.bin
 
+# Dataset — stays on Drive
+data/
+*.zip
+*.csv
+
+# Secrets — never push these
+kaggle.json
+*.env
+.env
+
+# Vector DB — too large
+chroma_db/
+rag_papers/
+
+# Keep these JSON files
+!diseases.json
+!eval_results.json
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
