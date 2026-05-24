@@ -35,13 +35,13 @@
 - Retrieval Precision@3: 70%
 
 ## Training Curves
-![Training](results/training_curves.png)
+![Training](Results/training_curves.png)
 
 ## ROC Curves
-![ROC](results/roc_curves.png)
+![ROC](Results/roc_curves.png)
 
 ## Grad-CAM++ vs Radiologist Annotations
-![GradCAM](results/gradcam_iou_examples.png)
+![GradCAM](Results/gradcam_iou_examples.png)
 
 ## Dataset
 - NIH ChestX-ray14: 112,120 labeled X-rays, 14 diseases
