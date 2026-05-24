@@ -48,8 +48,8 @@
 - PubMed Central open-access papers (Europe PMC)
 
 ## Tech Stack
-`PyTorch` `TorchXRayVision` `Grad-CAM` `LangChain` `ChromaDB`
-`sentence-transformers` `HuggingFace` `Gradio` `Albumentations`
+`PyTorch` `TorchXRayVision` `Grad-CAM` `Native ChromaDB`
+`transformers` `HuggingFace` `Gradio` `Albumentations`
 
 ## Run It Yourself
 ```bash
