@@ -1,5 +1,3 @@
-# multi-disease-radiology-assistant
-
 # Multi-Disease Radiology AI Assistant
 
 > Fine-tuned DenseNet121 for 14-class chest X-ray pathology detection
