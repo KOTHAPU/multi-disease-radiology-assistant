@@ -1,0 +1,12 @@
+chromadb==0.4.15
+numpy==1.26.4
+gradio
+torch
+torchvision
+torchxrayvision
+pytorch-grad-cam
+transformers
+albumentations
+pandas
+matplotlib
+seaborn
