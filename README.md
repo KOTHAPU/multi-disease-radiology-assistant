@@ -7,9 +7,9 @@
 
 | Metric | Score |
 |--------|-------|
-| Mean AUC (14 disease classes) | **0.745** |
+| Mean AUC (14 disease classes) | **0.736** |
 | Mean F1 Score | **0.134** |
-| Grad-CAM++ IoU vs radiologist boxes | **0.110** |
+| Grad-CAM++ IoU vs radiologist boxes | **0.138** |
 | RAG Retrieval Precision@3 | **70%** |
 
 ## Live Demo
