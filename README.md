@@ -54,7 +54,7 @@
 ## Run It Yourself
 ```bash
 # 1. Clone repo
-git clone https://github.com/YOUR_USERNAME/radiology-ai-assistant
+git clone https://github.com/YOUR_USERNAME/multi-disease-radiology-assistant
 
 # 2. Install dependencies
 pip install -r requirements.txt
